@@ -25,6 +25,17 @@
       "type": "boolean"
     },
     "profilePic": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "wannados": {
       "allowedTypes": [
         "images",
         "files",
