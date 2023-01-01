@@ -48,6 +48,9 @@
     },
     "instaFeed": {
       "type": "string"
+    },
+    "inAusbildung": {
+      "type": "boolean"
     }
   }
 }
